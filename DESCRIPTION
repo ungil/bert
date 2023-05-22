@@ -1,0 +1,9 @@
+Package: bert
+Title: bert.cpp: ggml implementation of BERT
+Description: Sentence embeddings in R without external dependencies (wrapper for bert.cpp).
+License: MIT + file LICENSE
+Author: Carlos Ungil <ungil@mac.com>
+Maintainer: Carlos Ungil <ungil@mac.com>
+Version: 0.01
+RoxygenNote: 7.2.3
+Encoding: UTF-8
